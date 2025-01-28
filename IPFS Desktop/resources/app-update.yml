@@ -1,0 +1,6 @@
+owner: ipfs
+repo: ipfs-desktop
+provider: github
+updaterCacheDirName: ipfs-desktop-updater
+publisherName:
+  - Protocol Labs, Inc.
